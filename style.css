@@ -1,0 +1,49 @@
+.gridField {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 80px;
+    margin: 2px;
+}
+
+.review {
+    background-color: crimson;
+}
+
+.match {
+    border-color: forestgreen;
+    border-width: 3px;
+}
+
+div button {
+    margin: 2px;
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h1 {
+    text-align: center;
+}
+
+.divLabels {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.divControls {
+    text-align: center;
+}
